@@ -1,4 +1,4 @@
-    const illegalUidList1 = [
+    const illegalUidList = [
         ["zzwblack1","20200412","viewthread.php?tid=8538824&page=3317#pid181918608"],
         ["64283356","20200412","viewthread.php?tid=8538824&page=3292#pid181915240"],
         ["xvidfans","20200412","viewthread.php?tid=8538824&page=3288#pid181914811"],
